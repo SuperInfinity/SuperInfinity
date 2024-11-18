@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 can reach me via my email id ---> "superinfinity5@gmail.com" 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Ich kan Deutsch 🇩🇪 spreshen
+- ⚡ Fun fact: Ich kan einbissen Deutsch 🇩🇪 spreshen
