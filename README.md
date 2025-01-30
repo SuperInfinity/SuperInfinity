@@ -4,3 +4,4 @@
 - 📫 can reach me via my email id ---> "superinfinity5@gmail.com" 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Ich kan einbissen Deutsch 🇩🇪 spreshen
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SuperInfinity)
