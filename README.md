@@ -104,6 +104,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 </br>
 </br>
+<p align="right">
+
+![Profile Views: ](https://komarev.com/ghpvc/?username=SuperInfinity&base=100)
+ </p>
 </br>
 </a>
 
