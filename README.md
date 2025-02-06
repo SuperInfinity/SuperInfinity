@@ -15,9 +15,9 @@
 </br>
 </br>
 
-
+<p align="center">
 # About ME 💬 :
-
+</p>
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
 
 <img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
@@ -40,6 +40,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+![python](assets/icons/python.png)
 <img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
