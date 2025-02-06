@@ -21,11 +21,11 @@
 </br>
 </br>
 </br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
 </p>
-<p align="center" >  
+<p align="right" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
   </a>
