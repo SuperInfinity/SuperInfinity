@@ -23,9 +23,10 @@
 </br>
 <p  >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
   </a>
 </p> 
 
