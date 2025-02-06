@@ -23,9 +23,9 @@
 </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&langs_count=2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical">
 </p>
-
+</br>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
