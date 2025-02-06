@@ -21,6 +21,18 @@
 - ✨ Data Structures
 
 </br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&langs_count=2">
+</p>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+  </a>
+</p> 
+
+</br>
 </br>
 </br>
 
@@ -69,13 +81,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
-  </a>
-  </p> 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&langs_count=2">
-</p>
