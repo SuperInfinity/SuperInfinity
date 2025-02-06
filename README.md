@@ -40,17 +40,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
-<img src="assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
@@ -67,10 +67,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:superinfintiy5@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="www.linkedin.com/in/tanmay-k-8167022a6">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/SuperInfinity/SuperInfinity/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
@@ -80,6 +80,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
+</p>
 
 *************
