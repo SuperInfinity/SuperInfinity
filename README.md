@@ -3,24 +3,26 @@
 </div>
 
 </br>
+</br>
+</br>
 
 # About ME 💬 : <img align="left" hight="100" width="100" src="assets/luffyPix.gif">
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
+</br>
 
 ### - Learning :
 - ✨ Computer Vision
 - ✨ Python, Java, Go, C++, C, Rust
 - ✨ Ultralytics-Yolo
 - ✨ Data Structures
-
 </br>
-</br>
-</br>
-<p>
-  <img width="300" src="assets/wrok11.gif">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
   </a>
+  <img align="right" height="300" width="400" src="assets/wrok11.gif">
+  </br>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
   </a>
@@ -57,13 +59,10 @@
 
 
 # Contact Me :
-
-<p>
- </br>
-
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk.
+<img src="assets/githubIsGud.gif" width="150" hight="100" align="right">
 
+<br>
 <a href="mailto:superinfintiy5@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
