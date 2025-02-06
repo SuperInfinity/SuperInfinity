@@ -1,13 +1,10 @@
 <div align="center">
-<img width="700" alt="GIF" align="center" src="assets/hellomul.gif">
+<img width="500" alt="GIF" align="center" src="assets/hellomul.gif">
 </div>
 
 </br>
-</br>
-</br>
 
-
-# About ME 💬 : <img hight="100" width="100" src="assets/luffyPix.gif">
+# About ME 💬 : <img align="left" hight="100" width="100" src="assets/luffyPix.gif">
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
 
 ### - Learning :
