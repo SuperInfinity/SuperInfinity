@@ -79,7 +79,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  [![My Stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 
 *************
