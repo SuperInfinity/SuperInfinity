@@ -12,8 +12,6 @@
 # About ME 💬 :
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/1936.gif">
-
 ### - Learning :
 - ✨ Computer Vision
 - ✨ Python, Java, Go, C++, C, Rust
@@ -21,13 +19,15 @@
 - ✨ Data Structures
 
 </br>
+</br>
+</br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
 </p>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
   </a>
 </p> 
 
