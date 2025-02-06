@@ -1,4 +1,4 @@
-<!-- # Konichiwa 👋
+# Konichiwa 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/13626.gif">
@@ -75,8 +75,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-************* -->
-
+*************
+<!-- 
 # Konichiwa 👋
 
 <div align="center">
@@ -161,4 +161,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
   </p>
 
-*************
+************* -->
