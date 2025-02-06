@@ -1,7 +1,5 @@
-# Konichiwa 👋
-
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/13626.gif">
+<img width="700" alt="GIF" align="center" src="assets/hellomul.gif">
 </div>
 
 </br>
@@ -9,7 +7,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME 💬 : <img src="assets/luffyPix.gif">
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
 
 ### - Learning :
@@ -21,7 +19,8 @@
 </br>
 </br>
 </br>
-<p  >
+<p>
+  <img src="assets/wrok11.gif">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
   </a>
@@ -66,7 +65,7 @@
  </br>
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk.
 
 <a href="mailto:superinfintiy5@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
