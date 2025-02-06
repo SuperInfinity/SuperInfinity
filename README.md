@@ -61,6 +61,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:superinfintiy5@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="assets/icons/gmail.png" />
 </a>
+<t>
 <a href="www.linkedin.com/in/tanmay-k-8167022a6">
   <img align="left" alt="Linkedin" width="150" hight="100" src="assets/icons/linkedin.png" />
 </br>
@@ -71,5 +72,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
 </p>  
+
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity)](https://github.com/anuraghazra/github-readme-stats)
+</p>
