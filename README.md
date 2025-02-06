@@ -7,7 +7,7 @@
 </br>
 
 
-# About ME 💬 : <img src="assets/luffyPix.gif">
+# About ME 💬 : <img hight="100" width="100" src="assets/luffyPix.gif">
 ### - I'm 20 Years Old, Computer Vision Enthusianst.
 
 ### - Learning :
@@ -20,7 +20,7 @@
 </br>
 </br>
 <p>
-  <img src="assets/wrok11.gif">
+  <img width="300" src="assets/wrok11.gif">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
   </a>
@@ -41,17 +41,17 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="assets/icons/python.png" alt="python" width="120" height="50">
+<img src="assets/icons/java.png" alt="java"  width="100" height="50">
+<img src="assets/icons/ai.png" alt="AI" width="90" height="50">
+<img src="assets/icons/bash.png" alt="bash" width="100" height="50">
+<img src="assets/icons/datascience.png" alt="datascience" width="180" height="50">
 </br>
 <img src="assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="assets/icons/pc.png" alt="pc" width="100" height="50">
+<img src="assets/icons/edge.png" alt="edge" width="100" height="50">
+<img src="assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
 </p>
 </br>
 </br>
