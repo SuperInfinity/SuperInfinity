@@ -1,13 +1,12 @@
 <div align="center">
-<img width="500" alt="GIF" align="center" src="assets/hellomul.gif">
+<img width="1000" height="500" alt="GIF" align="center" src="assets/aniHello.gif">
 </div>
 
 </br>
 </br>
-</br>
 
 # About ME 💬 : 
-<img align="right" width="200" src="assets/luffyPix.gif">
+<img align="right" width="200" src="assets/happycoder.gif">
 
 ### - I'm 20 Years Old. Speak English, Deutsch.  
 ### - Learning : 
@@ -20,7 +19,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" >
   </a>
-  <img  width="300" src="assets/wrok11.gif">
+  <img  width="300" src="assets/luffyPix.gif">
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -35,8 +34,9 @@
 
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
 
+<img src="assets/coincar.gif" align="right" width="100">
+</br>
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -84,9 +84,8 @@
 
 
 </br>
-</br>
 </p>
-</br>
+<img src="assets/skills.gif" width="50">
 </br>
 </br>
 
