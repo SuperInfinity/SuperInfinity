@@ -17,13 +17,16 @@
 </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=donut-vertical" width="300">
+  <div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperInfinity&layout=compact)
   </a>
-  <img  width="300" src="assets/luffyPix.gif">
   </br>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperInfinity&show_icons=true&theme=radical"/>
+
+  </div>
   </a>
 </p> 
 
